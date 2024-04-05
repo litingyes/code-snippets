@@ -13,7 +13,7 @@
     "snippets": [
       {
         "language": "vue",
-        "path": "./snippets/snippets.code-snippets"
+        "path": "./snippets/vue.json"
       }
     ]
   }

@@ -1,0 +1,20 @@
+{
+  "Vue new sfc": {
+		"prefix": "vue-new-sfc",
+		"body": [
+			"<script lang=\"ts\" setup>",
+			"",
+			"</script>",
+			"",
+			"<template>",
+			"  <div>",
+			"  </div>",
+			"</template>",
+			"",
+			"<style>",
+			"",
+			"</style>"
+		],
+		"description": "Init new SFC component content"
+	}
+}
