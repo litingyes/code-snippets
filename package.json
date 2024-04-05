@@ -1,6 +1,6 @@
 {
-  "name": "code-snippets",
-  "displayName": "Code Snippets",
+  "name": "code-snippets-all",
+  "displayName": "Code Snippets All",
   "description": "A collection of shortcut code snippets",
   "version": "0.0.1",
   "engines": {
